@@ -1,0 +1,1 @@
+obj?.myVariable + 50
